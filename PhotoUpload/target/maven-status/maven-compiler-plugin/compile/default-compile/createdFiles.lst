@@ -1,0 +1,4 @@
+com\aws\photoupload\service\AmazonClient.class
+com\aws\photoupload\Application.class
+com\aws\photoupload\controller\BucketController.class
+com\aws\photoupload\ServletInitializer.class
